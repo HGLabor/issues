@@ -5,3 +5,4 @@ Please keep these rules in mind when submitting something:
 - Use correct templates
 - Check if a similar issue already exists, if yes please comment on that one instead of opening a new one
 - Attach crash reports and minecraft logs if possible.
+- Ensure using the newest version of the client and launcher. Issues for old versions will be closed immediately.
